@@ -1,4 +1,4 @@
 #### Issue Tracking System
-- バグや機能提案や要望等の管理を行う
+- 課題について議論することができる
 
-![Issue Tracking System](./resources/issues.png)
+![Issue Tracking System Community](./resources/issuescomment.png)
