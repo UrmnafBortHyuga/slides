@@ -1,4 +1,5 @@
-# GitLab/GitLab.com 勉強会 第二回
+# GitLab/GitLab.com
+# 勉強会 第二回
 
 ## GitLab の概要
 

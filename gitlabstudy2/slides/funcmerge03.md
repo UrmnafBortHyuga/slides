@@ -1,1 +1,3 @@
-## Merge Requestsは個人的にすごく良いと思います。
+## Merge Requests
+
+## すごく良いと思います。

@@ -1,4 +1,4 @@
-#### Issue Tracking System
+_Issue Tracking System_
 
 課題管理だけに使うのは勿体無い
 
