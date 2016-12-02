@@ -13,7 +13,7 @@
 - 最近の動向
   - チームがかわり去年あたりからOSSに触れ始める
   - 楽しいが英語力がないため辛い
-- 現在の仕事:社内サーバにあるGitLab CEを社内流行らせる啓蒙活動
+- 現在の仕事:社内サーバにあるGitLab CEを社内で流行らせる啓蒙活動
 
 ---
 
@@ -60,7 +60,7 @@ GitLab,GitHubの料金で変更があった分は今回ご紹介します。
 - GitLab は GitHub のクローン(パクリ)
   - なのでGitHubの基本的な機能はそのまま使える
 
-[GitLabisGitHubClone](./resources/gitlabisclone.png)
+![GitLabisGitHubClone](./resources/gitlabisclone.png)
 
 ---
 
@@ -96,14 +96,14 @@ GitLab,GitHubの料金で変更があった分は今回ご紹介します。
 #### Issue Tracking System
 - バグや機能提案や要望等の管理を行う
 
-[Issue Tracking System](./resources/issues.png)
+![Issue Tracking System](./resources/issues.png)
 
 ---
 
 #### Issue Tracking System
 - 課題について議論することができる
 
-[Issue Tracking System Community](./resources/issuescomment.png)
+![Issue Tracking System Community](./resources/issuescomment.png)
 
 
 ---
@@ -124,7 +124,7 @@ GitLab,GitHubの料金で変更があった分は今回ご紹介します。
 - プロジェクトをグループ化
 - 複数のプロジェクトに一度にユーザーを割り当てることができる
 
-[Groups](./resources/groups.png)
+![Groups](./resources/groups.png)
 
 ---
 #### Groups
@@ -148,7 +148,7 @@ GitLab,GitHubの料金で変更があった分は今回ご紹介します。
 #### Markdown
 - 軽量マークアップ言語
 - 表示はマークアップなので簡単な記法でプレーンテキストより豊富な表現力
-[Markdown](./resources/markdown.png)
+![Markdown](./resources/markdown.png)
 
 ---
 #### Markdown
@@ -170,14 +170,14 @@ GitLabでMarkdownを表現出来る場所
 先ほどの`markdown documents inside the repository`
 
 markdownファイル(.md)をリポジトリに入れたらマークアップで表現してくれる
-[repository in markdown](./resources/reposmarkdown.png)
+![repository in markdown](./resources/reposmarkdown.png)
 
 ---
 
 #### Markdown
 - GitLabはリポジトリのルートフォルダにREADME.mdを作るとプロジェクトトップページに表示されます。
 - README.mdはMarkdownなのでプロジェクトトップページが華やかになります。
-[REAME](./resources/readmemarkdown.png)
+![REAME](./resources/readmemarkdown.png)
 ---
 
 #### Markdown
@@ -205,7 +205,7 @@ GitLabの為だけではない Qiita はてなブログ等も対応
 #### Merge Requests
 相手に自分の変更分ブランチの取り込みを依頼する
 
-[Merge Requests](./resources/mergerequests.png)
+![Merge Requests](./resources/mergerequests.png)
 
 
 ---
@@ -213,7 +213,7 @@ GitLabの為だけではない Qiita はてなブログ等も対応
 - Merge RequestsはIssueと同じで議論ができる
 - Merge Requestsされた資産に対してコメントも出来る
 
-[Merge Requests Community](./resources/mergerequestscomment.png)
+![Merge Requests Community](./resources/mergerequestscomment.png)
 
 ---
 
