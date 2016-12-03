@@ -294,9 +294,35 @@ GitLabの為だけではない Qiita はてなブログ等も対応
 - `サービス版の GitLab.com と OSS 版の GitLab CE との違い`
 
 ---
-#### サービス版の GitLab.com と OSS 版の GitLab CE との違い
-基本的なこと
+#### サービス版のGitLab.comとOSS版のGitLab CEとの違い
+GitLab.comとGitLab EEは同じドキュメント
 
+![Documents](./resources/document.png)
+---
+#### サービス版のGitLab.comとOSS版のGitLab CEとの違い
+GitLab.comでは以下のものがGitLab EEで動いている
+ - Issue tracking
+ - Wikis
+ - CI
+
+![gitlabcom image](./resources/gitlabcom.png)
 
 ---
+#### サービス版のGitLab.comとOSS版のGitLab CEとの違い
+- GitLab CEは設定しだいで無制限リポジトリ
+- GitLab.comは1リポジトリ10GB
 ----
+#### サービス版のGitLab.comとOSS版のGitLab CEとの違い
+CEとEEの違いと同じ。
+
+細かい違いは[compare-options](https://about.gitlab.com/products/#compare-options)に書いています。
+
+----
+#### サービス版のGitLab.comとOSS版のGitLab CEとの違い
+個人的な感想
+- GitLab.com
+ - 遅い・・・
+ - 当たり前だけどUIがコロコロ変わって楽しい
+- GitLab CE
+ - 無償OSSのオンプレだからサーバは自由
+ - ページのカスタマイズができて楽しい
